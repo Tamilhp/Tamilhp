@@ -2,7 +2,7 @@ Welcome... `Tamil Selvan Murugesan` here..
 
 The thing that excites me the most is **"The idea of an Artificial Intelligence"**. So, as you guess, I am an AI, ML and Data Science enthusiast.
 This GitHub profile is a documentation of my learnings and works.
-Presently I am a **Data Science intern in Analytics Vidhya**. 
+Presently I am a **Data Science intern at Analytics Vidhya**. 
 Feedbacks are very welcome.
 
 
