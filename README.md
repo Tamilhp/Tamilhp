@@ -1,8 +1,8 @@
 Welcome... `Tamil Selvan Murugesan` here..
 
-The thing that excites me the most is **"The idea of an Artificial Intelligence"**. So, as you guess, I am an AI, ML and Data Science enthusiast.
+The thing that excites me the most is **"The idea of an Artificial Intelligence"**.
 This GitHub profile is a documentation of my learnings and works.
-Presently I am a **Data Science intern at Analytics Vidhya**. 
+Presently I am a **Full stack data scientist at Aganitha Cognitive Solutions**. 
 Feedbacks are very welcome.
 
 
