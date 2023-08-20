@@ -8,9 +8,7 @@ Feedbacks are very welcome.
 
 
 Things that define me personally:
-- 💞️ Love is everything
 - 🌱 Reading is an addiction. 
-- 🙌 Would love to volunteer for social cause
 - 👀 Neither an optimist nor a pessimist. A serious Possibilist
 - 📫 How to reach me: You can reach me through LinkedIn or Twitter
 
