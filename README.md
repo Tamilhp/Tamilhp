@@ -6,10 +6,8 @@ Presently I am a **Full stack data scientist at Aganitha Cognitive Solutions**.
 Feedbacks are very welcome.
 
 
+Genuinely trying to understand AI and apply it.
 
-Things that define me personally:
-- 🌱 Reading is an addiction. 
-- 👀 Neither an optimist nor a pessimist. A serious Possibilist
 - 📫 How to reach me: You can reach me through LinkedIn or Twitter
 
 
