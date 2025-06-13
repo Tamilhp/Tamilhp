@@ -2,7 +2,8 @@ Welcome... `Tamil Selvan Murugesan` here..
 
 The thing that excites me the most is **"The idea of an Artificial Intelligence"**.
 This GitHub profile is a documentation of my learnings and works.
-Presently I am a **Full stack data scientist at Aganitha Cognitive Solutions**. 
+At present, I work as **Senior Data Scientist at IBM**
+Previously I worked as a **Full stack data scientist at Aganitha Cognitive Solutions**. 
 Feedbacks are very welcome.
 
 
